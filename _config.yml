@@ -30,7 +30,7 @@ url: "https://mohana-pamidi.com" # the base hostname & protocol for your site, e
 github_username:  mohana-pamidi
 
 # Build settings
-theme: minimq
+theme: minima
 plugins:
   - jekyll-feed
 
